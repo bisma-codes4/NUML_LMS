@@ -7,9 +7,10 @@ A full-stack, role-based LMS built with **Flutter**, **Node.js / Express** and *
 > Add 3 to 4 screenshots here (login, student dashboard, admin Manage Data, teacher Class Tools).
 >
 > ```md
-> ![Login](screenshots/login.png)
-> ![Student dashboard](screenshots/student-dashboard.png)
-> ![Admin panel](screenshots/admin.png)
+![Login](screenshots/login.png)
+![Student dashboard](screenshots/student-dashboard.png)
+![Admin panel](screenshots/admin.png)
+![Teacher panel](screenshots/teacher.png)
 > ```
 
 ## Tech Stack
